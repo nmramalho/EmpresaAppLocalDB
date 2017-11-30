@@ -1,5 +1,5 @@
 # EmpresaAppLocalDB
-Exemplo (criado para as aulas de Cursos Profissionais de Informática) de uma aplicação que estabelece ligação a uma base de dados localDB
+Exemplo criado para as aulas de Cursos Profissionais de Informática, de uma aplicação que estabelece a ligação a uma base de dados localDB
 
  # Tipo de projeto 
  Windows Forms App (.NET Framework) 
