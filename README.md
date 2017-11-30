@@ -28,7 +28,7 @@ CREATE TABLE [dbo].[Funcionario] (
 - Inserir de registos numa tabela (tabela Departamento)
 - Atualização de registos numa tabela (tabela Departamento)
 - Eliminar registos numa tabela (tabela Departamento)
-- Importar registo de um ficheiro csv
+- Importar registos de um ficheiro csv
 
   
 
