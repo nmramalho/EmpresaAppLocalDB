@@ -6,7 +6,7 @@ Exemplo criado para as aulas de Cursos Profissionais de Informática, de uma apl
 
 # Requisitos
  - Base de dados LocalDB. Pode ser criada no Visual Studio através da ferramenta SQL Server Object Explorer
-```
+```sql
 CREATE DATABASE Empresa; 
  
 CREATE TABLE [dbo].[Departamento] (
